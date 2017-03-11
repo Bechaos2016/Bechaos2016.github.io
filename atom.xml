@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NOSCE TE IPSUM</title>
+  <subtitle>Bechaos2016</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-03-11T14:15:03.866Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>陈碧超</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/%E4%B8%96%E7%95%8C%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://yoursite.com/世界你好/</id>
+    <published>2017-03-11T14:10:57.609Z</published>
+    <updated>2017-03-11T14:15:03.866Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我来到这里了，我要在这里住下了，我将会从这里走出去"><a href="#我来到这里了，我要在这里住下了，我将会从这里走出去" class="headerlink" title="我来到这里了，我要在这里住下了，我将会从这里走出去"></a>我来到这里了，我要在这里住下了，我将会从这里走出去</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;我来到这里了，我要在这里住下了，我将会从这里走出去&quot;&gt;&lt;a href=&quot;#我来到这里了，我要在这里住下了，我将会从这里走出去&quot; class=&quot;headerlink&quot; title=&quot;我来到这里了，我要在这里住下了，我将会从这里走出去&quot;&gt;&lt;/a&gt;我来到这里了，我要在这
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
